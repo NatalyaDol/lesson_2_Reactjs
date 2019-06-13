@@ -15,5 +15,5 @@ export const developer = class Developer {
 };
 
 export const developerVanya = new Developer('Ваня', 36, '23/04/1984');
-developerFirst();
+developerVanya();
 //Developer end
