@@ -12,3 +12,4 @@
 ***
 По заданию №2 экспортирован из developer.js в App.js 
 класс Developer и объект developerVanya(созданный по этому классу)
+!!!!
